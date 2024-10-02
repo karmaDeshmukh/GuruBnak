@@ -1,0 +1,31 @@
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-01 20:22:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Acer\AppData\Local\Temp\testng-eclipse--949554949\testng-customsuite.xml
+
+2024-10-01 20:22:12 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2024-10-01 20:22:24 INFO  TC003_NewCustTest:15 - ****** LoginTest Starts ******
+2024-10-01 20:22:25 INFO  TC003_NewCustTest:17 - Entered User id
+2024-10-01 20:22:25 INFO  TC003_NewCustTest:19 - Entered Password
+2024-10-01 20:22:27 INFO  TC003_NewCustTest:21 - Checking for Acc
+2024-10-01 20:22:27 INFO  TC003_NewCustTest:25 - login test passed
+2024-10-01 20:22:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@27df0f3d: 124 ms
+2024-10-01 20:22:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@c35af2a: 1 ms
+2024-10-01 20:22:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@4f5f6e45: 17 ms
+2024-10-01 20:22:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4cdb8504: 36 ms
+2024-10-01 20:22:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@20de05e5: 15 ms
+2024-10-01 20:22:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@36c0d0bd: 0 ms
